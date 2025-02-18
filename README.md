@@ -1,3 +1,4 @@
 # ConsistentHashing
 
-![image](https://github.com/user-attachments/assets/12cdd0f5-d17f-41e6-9bb9-a93518ffb62c)
+<img width="767" alt="image" src="https://github.com/user-attachments/assets/bc0df7b9-f77b-4b18-9e19-22d3539185df" />
+
